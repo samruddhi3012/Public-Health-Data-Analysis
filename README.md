@@ -1,7 +1,9 @@
 # HealthCare Analytics :hospital:
 
 ## 💡 Objectives
-The objective of this project is to analyse the healthcare dataset and draw various insights.
+<!-- 
+The objective of this project is to analyse the healthcare dataset and draw various insights. 
+-->
 
 ## 💡 Tools Used
 The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) :desktop_computer: used in this project is obtained from kaggle. 
