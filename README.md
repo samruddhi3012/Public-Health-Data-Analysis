@@ -1,12 +1,10 @@
 # HealthCare Analytics :hospital:
 
 ## 💡 Objectives
-<!-- 
-The objective of this project is to analyse the healthcare dataset and draw various insights. 
--->
+The objective of this project is to analyse the healthcare dataset and various metrics involving in it to draw meaningful insights. 
 
 ## 💡 Tools Used
-The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) :desktop_computer: used in this project is obtained from kaggle. 
+<!-- The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) :desktop_computer: used in this project is obtained from kaggle. -->
 * Tools : Microsoft Excel
 * Keywords: Healthcare Analytics, Data Analysis, Data Visualization, Pivot Table, PivotChart, VLOOKUP, Aggregate Functions, Trend Analysis 
 
