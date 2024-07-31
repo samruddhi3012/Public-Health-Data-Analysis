@@ -16,6 +16,8 @@ The dashboard analysing various metrics is presented as follows:
 
 ## 💡 Description 
 The steps involved in building this healthcare analytics projects are mentioned below:
-* The project begins by the process of data cleaning, which involves removing any duplicate entries, setting the correct format for columns having text , setting the correct datatype for each column etc.
-* The next step is to form tables and start
+* The project begins by the process of data cleaning, which involves removing any duplicate entries, removing null values, setting the correct format for columns having text, setting the correct datatype for each column etc.
+* The next step is to form tables and start the analysis process, using vlookup function to extract useful data columns for analysis purpose.
+* In order to solve the problem statement,pivot table and pivot charts were created.
+* Finally an interactive dashboard was created to represent the analysis more impactfully. 
  
