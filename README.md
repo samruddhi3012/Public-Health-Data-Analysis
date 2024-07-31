@@ -11,7 +11,8 @@ The objective of this project is to analyse the healthcare dataset and various m
 ## 💡 Dashboard 
 The dashboard analysing various metrics is presented as follows:
 
-![Picture1](https://github.com/user-attachments/assets/afaab9c5-2883-4069-8887-cc5f83bf3641)
+![dashboard](https://github.com/user-attachments/assets/16a1649a-1813-4b26-9b43-d6d7d1c7146a)
+
 
 
 ## 💡 Description 
