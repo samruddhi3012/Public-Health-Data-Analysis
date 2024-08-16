@@ -17,10 +17,10 @@ The dashboard analysing various metrics is presented as follows:
 
 ## 💡Description 
 The steps involved in building this healthcare analytics projects are mentioned below:
-* The project begins with the process of **data cleaning**, which involves removing any duplicate entries, removing null values, setting the correct format for columns with text, setting the correct datatype for each column, and so on.
-* The next step is to form tables and start the analysis process, using the **vlookup function** to extract useful data columns for analysis purposes.
-* We created **pivot tables** and **pivot charts** to solve the problem statement.
-* Finally, we created an interactive **dashboard** to more effectively represent the analysis.
+* The project begins with the process of _**data cleaning**,_ which involves removing any duplicate entries, removing null values, setting the correct format for columns with text, setting the correct datatype for each column, and so on.
+* The next step is to form tables and start the analysis process, using the _**vlookup function**_ to extract useful data columns for analysis purposes.
+* We created _**pivot tables**_ and _**pivot charts**_ to solve the problem statement.
+* Finally, we created an interactive _**dashboard**_ to more effectively represent the analysis.
  
 ## 💡Results
 The following key results were obtained after performing data analysis on the dataset:
