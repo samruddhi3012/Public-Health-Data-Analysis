@@ -1,4 +1,6 @@
-# HealthCare Analytics :hospital:
+# HealthCare Analytics 
+
+![im](https://github.com/user-attachments/assets/082ebd00-7a2c-44e4-a26e-51d7a6c7e210)
 
 ## 💡Objectives
 The objective of this project is to thoroughly analyze the healthcare dataset and various associated metrics to uncover meaningful insights. By examining patterns, trends, and correlations within the data, we aim to identify key factors influencing healthcare outcomes. These insights will inform strategies to improve patient care and optimize healthcare operations.
