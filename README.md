@@ -40,3 +40,5 @@ Patients aged 70 and above experience the highest incidence of hypertension.
 
 5. _**Patient Volume in 2020:**_
 The year 2020 recorded the highest number of patients, with a total of 11,285 individuals seeking medical attention.
+
+### _Thank you for visiting my repository!_
