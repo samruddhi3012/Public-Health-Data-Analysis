@@ -3,7 +3,7 @@
 ![im](https://github.com/user-attachments/assets/082ebd00-7a2c-44e4-a26e-51d7a6c7e210)
 
 ## 💡 Problem Statement
-Healthcare organizations generate large amounts of patient data, but turning this raw data into actionable insights for decision-making is challenging. Without proper analysis, hospitals struggle to optimize resource allocation and improve patient care.
+Healthcare facilities often face challenges in effectively utilizing large-scale patient data to improve healthcare delivery and operational efficiency. Without proper analysis, hospitals cannot fully understand critical patterns such as disease trends, patient demographics, or insurance preferences, limiting their ability to improve service and allocate resources efficiently.
 
 ## 💡Objectives
 The objective of this project is to analyze hospital data using Microsoft Excel to uncover key insights related to patient demographics, medical conditions, and hospital performance, providing stakeholders with actionable recommendations for improving healthcare delivery.
