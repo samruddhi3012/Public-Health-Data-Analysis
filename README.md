@@ -2,8 +2,11 @@
 
 ![im](https://github.com/user-attachments/assets/082ebd00-7a2c-44e4-a26e-51d7a6c7e210)
 
+## 💡 Problem Statement
+Healthcare facilities often face challenges in effectively utilizing large-scale patient data to improve healthcare delivery and operational efficiency. Without proper analysis, hospitals cannot fully understand critical patterns such as disease trends, patient demographics, or insurance preferences, limiting their ability to improve service and allocate resources efficiently.
+
 ## 💡Objectives
-The objective of this project is to thoroughly analyze the healthcare dataset and various associated metrics to uncover meaningful insights. By examining patterns, trends, and correlations within the data, we aim to identify key factors influencing healthcare outcomes. These insights will inform strategies to improve patient care and optimize healthcare operations.
+The main objective of this project is to conduct an in-depth analysis of the healthcare dataset and its associated metrics using Microsoft Excel, with the goal of uncovering valuable insights. By identifying patterns, trends, and correlations within the data, the analysis seeks to highlight key factors that influence healthcare outcomes.
 
 ## 💡Data 
 The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) :desktop_computer: used in this project is obtained from kaggle. 
