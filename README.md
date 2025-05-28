@@ -5,8 +5,7 @@
 ## 💡 Problem Statement
 Healthcare facilities often face challenges in effectively utilizing large-scale patient data to improve healthcare delivery and operational efficiency. Without proper analysis, hospitals cannot fully understand critical patterns such as disease trends, patient demographics, or insurance preferences, limiting their ability to improve service and allocate resources efficiently.
 
-## 💡Objectives
-The objective of this project is to analyze hospital data using Microsoft Excel to uncover key insights related to patient demographics, medical conditions, and hospital performance, providing stakeholders with actionable recommendations for improving healthcare delivery.
+**The objective of this project is to analyze hospital data using Microsoft Excel to uncover key insights related to patient demographics, medical conditions, and hospital performance, providing stakeholders with actionable recommendations for improving healthcare delivery.**
 
 ## 💡Data 
 The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) :desktop_computer: used in this project is obtained from kaggle. 
@@ -27,8 +26,8 @@ The steps involved in building this healthcare analytics projects are mentioned 
 * We created _**pivot tables**_ and _**pivot charts**_ to solve the problem statement.
 * Finally, we created an interactive _**dashboard**_ to more effectively represent the analysis.
  
-## 💡Results
-The following key results were obtained after performing data analysis on the dataset:
+## 💡Key Results
+The following results were obtained after performing data analysis on the dataset:
 1. _**Doctors Treating Specific Conditions**_:
 A significant proportion of doctors, 16.92%, specialize in treating arthritis, while a nearly equal percentage, 16.91%, focus on managing diabetes.
 
