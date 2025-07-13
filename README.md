@@ -1,4 +1,4 @@
-# HealthCare Analytics 
+# Public Health Data Analysis
 
 ![im](https://github.com/user-attachments/assets/082ebd00-7a2c-44e4-a26e-51d7a6c7e210)
 
